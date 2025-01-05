@@ -17,7 +17,7 @@
 <div align="center">
   
 ## 🌐 Connect with Me 🍬
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordlookup.com/user/620569922870837253) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/realglaxin) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/realglaxin) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mail@glaxindev.xyz) [![Portfolio](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://www.glaxindev.xyz) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordlookup.com/user/620569922870837253) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/realglaxin) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/realglaxin) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mail@glaxindev.xyz) [![Portfolio](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://www.glaxindev.xyz)
 
 </div>
 
