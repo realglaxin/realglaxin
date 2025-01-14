@@ -1,7 +1,7 @@
 <!-- Stats -->
 <div align="center">
   <img src="https://readme-stats-rho-wheat.vercel.app/api?username=realglaxin&theme=aura&hide_border=true&include_all_commits=true&count_private=false" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realglaxin&theme=aura&hide_border=true" width="50%" />
+  <img src="https://streak-stats.demolab.com?user=realglaxin&theme=aura&hide_border=true" width="50%" />
   <img src="https://readme-stats-rho-wheat.vercel.app/api/top-langs/?username=realglaxin&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
